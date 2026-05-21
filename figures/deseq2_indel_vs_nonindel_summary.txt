@@ -1,0 +1,45 @@
+=== Myeloid: Non-Indel vs Indel ===
+Total DEG (padj<0.05, |log2FC|>1): 1
+  Up in Non-Indel: 0
+  Up in Indel: 1
+
+Топ-10 Up in Non-Indel:
+
+Топ-10 Up in Indel:
+  MT1G: log2FC=-1.66, padj=2.47e-02
+
+=== Lymphoid: Non-Indel vs Indel ===
+Total DEG (padj<0.05, |log2FC|>1): 2
+  Up in Non-Indel: 1
+  Up in Indel: 1
+
+Топ-10 Up in Non-Indel:
+  MEG3: log2FC=5.83, padj=7.05e-03
+
+Топ-10 Up in Indel:
+  DCBLD2: log2FC=-2.42, padj=7.05e-03
+
+=== Stroma: Non-Indel vs Indel ===
+Total DEG (padj<0.05, |log2FC|>1): 15
+  Up in Non-Indel: 7
+  Up in Indel: 8
+
+Топ-10 Up in Non-Indel:
+  PIK3R3: log2FC=1.05, padj=1.37e-02
+  GPX3: log2FC=1.58, padj=1.38e-02
+  ABCA8: log2FC=2.19, padj=1.97e-02
+  ATOH8: log2FC=2.41, padj=3.45e-02
+  LEPR: log2FC=1.67, padj=4.40e-02
+  SLPI: log2FC=1.54, padj=4.61e-02
+  SHROOM4: log2FC=1.19, padj=4.66e-02
+
+Топ-10 Up in Indel:
+  IGFL2: log2FC=-3.48, padj=1.23e-02
+  ADAMTS12: log2FC=-1.27, padj=2.03e-02
+  CLMP: log2FC=-1.02, padj=2.76e-02
+  SULF1: log2FC=-1.03, padj=3.45e-02
+  PLPP4: log2FC=-2.42, padj=4.61e-02
+  SLC16A3: log2FC=-1.13, padj=4.61e-02
+  THBS2: log2FC=-1.02, padj=4.94e-02
+  HS3ST3A1: log2FC=-1.44, padj=4.94e-02
+
