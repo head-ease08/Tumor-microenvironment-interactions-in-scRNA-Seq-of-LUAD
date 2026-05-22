@@ -107,7 +107,7 @@ pip install scanpy scrublet harmonypy decoupler liana pertpy pydeseq2 xgboost sh
 
 ### TRU Subtype Classification
 
-A binary XGBoost classifier (TRU vs. NON-TRU) was trained on TCGA bulk RNA-seq data using iterative SHAP feature elimination to select tumor-specific genes shared between bulk and scRNA-seq HVGs. The classifier achieved satisfactory performance on held-out bulk data; however, direct transfer to scRNA-seq did not yield reliable predictions, likely due to technical modality differences.
+After naive genes- based classification show no results, binary XGBoost classifier (TRU vs. NON-TRU) was trained on TCGA bulk RNA-seq data using iterative SHAP feature elimination to select tumor-specific genes shared between bulk and scRNA-seq HVGs. The classifier achieved satisfactory performance on held-out bulk data; however, direct transfer to scRNA-seq did not yield reliable predictions, likely due to technical modality differences.
 
 | Figure | Description |
 |--------|-------------|
