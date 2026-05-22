@@ -1,5 +1,5 @@
 <!-- top-right float -->
-<img src="figures/logo.png" align="right" width="150"/>
+<img src="figures/logo.png" align="right" width="100"/>
 
 # Tumor Microenvironment Interactions in scRNA-seq of LUAD
 
