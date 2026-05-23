@@ -179,10 +179,9 @@ Pathway activity scores (Hallmark and Reactome) were computed per cell and compa
 
 ## References
 
-1. Lee, J., Jeong, J. Y., Hong, M. J., et al. (2026). Defining the cellular and molecular identities of histologic subtypes in lung adenocarcinoma. Experimental Hematology & Oncology, 15, 12. https://doi.org/10.1186/s40164-025-00740-6 
-2. Wilkerson, M. D., Yin, X., Walter, V., et al. (2012). Differential pathogenesis of lung adenocarcinoma subtypes involving sequence mutations, copy number, chromosomal instability, and methylation. PLoS ONE, 7(5), e36530. https://doi.org/10.1371/journal.pone.0036530
-3. Chen, T., He, T., Benesty, M., et al. (2026). xgboost: Extreme gradient boosting (Version 3.3.0.0) [R package]. GitHub. https://github.com/dmlc/xgboost 
-4. Muzellec, B., Teleńczuk, M., Cabeli, V., et al. (2023). PyDESeq2: A Python package for bulk RNA-seq differential expression analysis. Bioinformatics, 39(9), btad547. https://doi.org/10.1093/bioinformatics/btad547 
-5. Dimitrov, D., Türei, D., Garrido-Rodriguez, M., et al. (2022). Comparison of methods and resources for cell-cell communication inference from single-cell RNA-seq data. Nature Communications, 13, 3224.
-6. Badia-i-Mompel, P., Vélez Santiago, J., Braunger, et al. (2022). decoupleR: Ensemble of computational methods to infer biological activities from omics data. Bioinformatics Advances. https://doi.org/10.1093/bioadv/vbac016 
-
+1. J. Lee et al., "Defining the cellular and molecular identities of histologic subtypes in lung adenocarcinoma," Experimental Hematology & Oncology, vol. 15, p. 12, 2026, doi: 10.1186/s40164-025-00740-6.
+2. M. D. Wilkerson et al., "Differential pathogenesis of lung adenocarcinoma subtypes involving sequence mutations, copy number, chromosomal instability, and methylation," PLoS ONE, vol. 7, no. 5, p. e36530, 2012, doi: 10.1371/journal.pone.0036530.
+3. T. Chen and C. Guestrin, "XGBoost: A scalable tree boosting system," in Proc. 22nd ACM SIGKDD Int. Conf. Knowledge Discovery and Data Mining (KDD '16), San Francisco, CA, USA, 2016, pp. 785–794, doi: 10.1145/2939672.2939785.
+4. B. Muzellec et al., "PyDESeq2: A Python package for bulk RNA-seq differential expression analysis," Bioinformatics, vol. 39, no. 9, p. btad547, 2023, doi: 10.1093/bioinformatics/btad547.
+5. D. Dimitrov et al., "Comparison of methods and resources for cell-cell communication inference from single-cell RNA-seq data," Nature Communications, vol. 13, p. 3224, 2022.
+6. P. Badia-i-Mompel et al., "decoupleR: Ensemble of computational methods to infer biological activities from omics data," Bioinformatics Advances, 2022, doi: 10.1093/bioadv/vbac016.
